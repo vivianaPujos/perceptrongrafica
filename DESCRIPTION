@@ -1,0 +1,12 @@
+Package: perceptrongrafica
+Type: Package
+Title: Grafica de la Frontera de Decision de un Perceptron Simple
+Version: 0.1.0
+Authors@R: person("Viviana", "Pujos", email = "vip158@hotmail.com", role = c("aut", "cre"))
+Description: Grafica la frontera de decision de un perceptron simple ya entrenado,
+    marcando las clasificaciones correctas e incorrectas.
+    Basado en el codigo del Ing. Edwin Mejia.
+License: GPL-3
+Encoding: UTF-8
+Imports:
+    ggplot2
